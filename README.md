@@ -1,6 +1,7 @@
 # DEVOPS EXERCISES
+![image](https://github.com/user-attachments/assets/777219be-1dbb-486b-8975-01f01f79f1c0)
 
-![DevOps Logo](path_to_logo.png)
+
 
 This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE.  
 There are currently 2624 exercises and questions.
